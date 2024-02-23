@@ -1,0 +1,251 @@
+body {
+    margin: 0;
+    font-family: "Roboto", sans-serif;
+
+}
+
+header {
+    background-color: #ffc017;
+    height: 350px;
+
+}
+
+.logo {
+
+    height: 20px;
+    transform: translate(300px, 30px);
+}
+
+#header {
+    transform: translateX(1300px);
+}
+
+#button,
+#button2 {
+
+    background-color: black;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 50px;
+    cursor: pointer;
+    font-size: 16px;
+    margin-left: 20px;
+}
+
+#button2 {
+    margin-left: 100px;
+}
+
+h1 {
+    font-size: 5rem;
+    margin-left: 100px;
+    font-family: "Spectral", serif;
+
+}
+
+#h1text {
+    font-size: 2rem;
+    margin-left: 100px;
+}
+
+/*parte bianca*/
+
+#trending {
+    margin-left: 100px;
+    display: flex;
+}
+
+/*primo riquadro*/
+
+
+#unoPrimo {
+    display: flex;
+}
+
+#uno {
+    color: hwb(0 62% 37%);
+    font-size: 2rem;
+    transform: translate(100px);
+}
+
+#primo {
+    transform: translate(100px);
+    margin: 30px;
+}
+
+#foto {
+    display: flex;
+}
+
+#image1 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+
+/*secondo riquadro*/
+
+
+#dueSecondo {
+    display: flex;
+}
+
+#due {
+    color: hwb(0 62% 37%);
+    font-size: 2rem;
+    transform: translate(140px);
+}
+
+#secondo {
+    transform: translate(150px);
+    margin: 0;
+}
+
+#foto2 {
+    display: flex;
+}
+
+#image2 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+/*terzo riquadro*/
+
+#treTerzo {
+    display: flex;
+}
+
+#tre {
+    color: hwb(0 62% 37%);
+    font-size: 2rem;
+    transform: translate(100px);
+}
+
+#terzo {
+    transform: translate(150px);
+    margin: 20px;
+}
+
+#foto3 {
+    display: flex;
+}
+
+#image3 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+/* quarto riquadro*/
+#quattroQuarto {
+    display: flex;
+    margin: 30px;
+}
+
+#quattro {
+    color: hwb(0 62% 37%);
+    font-size: 2rem;
+    transform: translate(100px);
+}
+
+#quarto {
+    transform: translate(150px);
+}
+
+#foto4 {
+    display: flex;
+}
+
+#image4 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+
+/* quinto riquadro*/
+#cinqueQuinto {
+    display: flex;
+    margin: 30px;
+}
+
+#cinque {
+    color: hwb(0 62% 37%);
+    font-size: 2rem;
+    transform: translate(100px);
+}
+
+#quinto {
+    transform: translate(150px);
+}
+
+#foto5 {
+    display: flex;
+}
+
+#image5 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+/*sesto riquadro*/
+#seiSesto {
+    display: flex;
+    margin: 30px;
+}
+
+#sei {
+    color: hwb(0 62% 37%);
+    font-size: 2rem;
+    transform: translate(100px);
+}
+
+#sesto {
+    transform: translate(150px);
+}
+
+#foto6 {
+    display: flex;
+}
+
+#image6 {
+    border-radius: 50%;
+    overflow: hidden;
+    width: 40px;
+    height: 40px;
+}
+
+
+/*modifico h2*/
+
+h2 {
+    margin: 0;
+}
+
+h1 {
+    margin: 0;
+    margin-left: 100px;
+}
+
+/*allinearli*/
+
+#sectionUno {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 30px;
+
+}
+
+#primo {
+    margin: 30px;
+}
